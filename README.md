@@ -23,19 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Geração de imagem de policiais
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[Liste as IAs Generativas e outras ferramentas usadas](https://neural.love/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Somente digitando o que queria
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Geração de uma imagem muito realística
+Mas é notável que é fake
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito fácil a geração de conteúdo com ferramentas de IA.
 ```
 
 ### Exemplos e Insigths
